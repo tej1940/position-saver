@@ -6,6 +6,6 @@ Content Manager must be installed.
 
 Custom Shaders Patch (CSP) is required.
 
-this build is in developement and is not really optimized
+this project is in developent and it not really optimized
 
 I'm not completely sure how the default settings will behave on different systems, so I'd really appreciate any feedback. If you run into any issues or have suggestions for improvements, please let me know! 
