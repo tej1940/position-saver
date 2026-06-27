@@ -2,8 +2,8 @@ This Assetto Corsa mod lets you save your position manually or automatically if 
 
 
 	Requirements:
+	
 	-Content Manager must be installed.
-
 	-Custom Shaders Patch (CSP) is required.
 
 this project is in developent and it not really optimized
